@@ -39,7 +39,7 @@ reggie:
 
 服务端 http://localhost:8080/backend/page/login/login.html
 
-客户端 
+客户端 http://localhost:8080/front/index.html
 
 
 
@@ -111,30 +111,5 @@ ReggieApplication 项目启动
 
 - SMSUtils 短信发送工具类
 - ValidateCodeUtils 随机生成验证码工具类
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
